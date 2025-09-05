@@ -1,0 +1,7 @@
+Physical Home Automation Interface | Arduino, Bluetooth Module, PIR Sensor, Temperature Sensor
+ May 27, 2024
+ • Developed a home automation system that provides a physical interface for real-time monitoring and control.
+ • Enabled Bluetooth-based communication for remote notifications via smartphone.
+ • Integrated fire detection using a temperature sensor and auto-activation of a fire extinguishing device.
+ • Added intruder detection using a PIR sensor with buzzer alarm and security alerts.
+ • Aimed to enhance safety and usability beyond typical virtual smart home systems
